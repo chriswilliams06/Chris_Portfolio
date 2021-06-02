@@ -1,7 +1,24 @@
 # Chris_Portfolio
 A few fun project examples in R and Python
 
-# Project 1: Classification of the Iris dataset
-* Looked at the different variables and used them to predict the plant type
 
-My TS assignment: [assignment 4](/html_files/Williams_Christopher_Assignment4.html)
+# Project 1: Classification
+*The objective of this classification model is to ....
+
+
+# Project 2: Regression
+*The objective of this time regression is to ....
+
+
+# Project 3: Clustering
+*The objective of this clustering process is to ....
+
+
+# Project 4: Neural Network 
+*The objective of this neural network model is to ....
+
+
+# Project 5: Time Series
+*The objective of this time series model is to ....
+
+[Time Series Example](/html_files/Williams_Christopher_Assignment4.html)
